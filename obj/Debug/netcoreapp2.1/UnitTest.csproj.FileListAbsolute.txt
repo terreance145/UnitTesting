@@ -1,0 +1,17 @@
+/Users/dewayne123/Projects/UnitTesting/UnitTest/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dewayne123/Projects/UnitTesting/UnitTest/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/dewayne123/Projects/UnitTesting/UnitTest/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/dewayne123/Projects/UnitTesting/UnitTest/bin/Debug/netcoreapp2.1/UnitTest.deps.json
+/Users/dewayne123/Projects/UnitTesting/UnitTest/bin/Debug/netcoreapp2.1/UnitTest.runtimeconfig.json
+/Users/dewayne123/Projects/UnitTesting/UnitTest/bin/Debug/netcoreapp2.1/UnitTest.runtimeconfig.dev.json
+/Users/dewayne123/Projects/UnitTesting/UnitTest/bin/Debug/netcoreapp2.1/UnitTest.dll
+/Users/dewayne123/Projects/UnitTesting/UnitTest/bin/Debug/netcoreapp2.1/UnitTest.pdb
+/Users/dewayne123/Projects/UnitTesting/UnitTest/bin/Debug/netcoreapp2.1/UnitTesting.dll
+/Users/dewayne123/Projects/UnitTesting/UnitTest/bin/Debug/netcoreapp2.1/UnitTesting.pdb
+/Users/dewayne123/Projects/UnitTesting/UnitTest/obj/Debug/netcoreapp2.1/UnitTest.csprojAssemblyReference.cache
+/Users/dewayne123/Projects/UnitTesting/UnitTest/obj/Debug/netcoreapp2.1/UnitTest.csproj.CoreCompileInputs.cache
+/Users/dewayne123/Projects/UnitTesting/UnitTest/obj/Debug/netcoreapp2.1/UnitTest.AssemblyInfoInputs.cache
+/Users/dewayne123/Projects/UnitTesting/UnitTest/obj/Debug/netcoreapp2.1/UnitTest.AssemblyInfo.cs
+/Users/dewayne123/Projects/UnitTesting/UnitTest/obj/Debug/netcoreapp2.1/UnitTest.csproj.CopyComplete
+/Users/dewayne123/Projects/UnitTesting/UnitTest/obj/Debug/netcoreapp2.1/UnitTest.dll
+/Users/dewayne123/Projects/UnitTesting/UnitTest/obj/Debug/netcoreapp2.1/UnitTest.pdb
